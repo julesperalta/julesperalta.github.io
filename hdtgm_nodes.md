@@ -1,6 +1,8 @@
+---
 layout: page
 title: "HDTGM_NODES"
-permalink: /hdtgm/network
+permalink: /hdtgm_network
+---
 
 <!DOCTYPE html>
 <html>
