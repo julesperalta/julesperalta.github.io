@@ -1,3 +1,7 @@
+layout: page
+title: "HDTGM_NODES"
+permalink: /hdtgm/network
+
 <!DOCTYPE html>
 <html>
 <head>
