@@ -4,7 +4,8 @@ title: "HDTGM_NODES"
 permalink: /hdtgm_network
 ---
 
-<!DOCTYPE html>
+Visualizing shared principals (directors, writers, producers, actors, and composers) between movies covered in HDTGM. Current up to Bats (1999) LIVE!
+
 <html>
 <head>
 <meta charset="utf-8" />
